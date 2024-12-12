@@ -1,0 +1,19 @@
+{
+    "name": "sergioolivo/practica_1",
+    "description": "proyecto basic",
+    "authors": [
+        {
+            "name": "HitsoKeyco",
+            "email": "olivosergio09@gmail.com"
+        }
+    ] ,
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+    },    
+    "require":{}
+}
